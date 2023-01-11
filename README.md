@@ -1,9 +1,9 @@
 ## Olá!! eu sou a Ellen Santos👋
 
-- 🌱 Atualmente  cursando  FullStack 
-- 🌱 Atualmente  cursando  Profissão Analista de Dados
-- 🌱 Atualmente  cursando JavaScript e TypeScript
-- 📚 Iniciando Graduação Desenvolvimento Web
+- 🌱 Atualmente  cursando  FullStack -Fullture
+- 🌱 Atualmente  cursando  Profissão Analista de Dados -Ebac
+- 🌱 Atualmente  cursando JavaScript e TypeScript -Udemy
+- 📚 Iniciando Graduação Desenvolvimento Web -Anhanguera
 - 😄 Pronouns: ela
 
 
