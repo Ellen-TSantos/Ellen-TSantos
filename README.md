@@ -2,6 +2,7 @@
 
 - 🌱 Atualmente  cursando  FullStack 
 - 🌱 Atualmente  cursando  Profissão Analista de Dados
+- 🌱 Atualmente  cursando JavaScript e TypeScript
 - 📚 Iniciando Graduação Desenvolvimento Web
 - 😄 Pronouns: ela
 
