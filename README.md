@@ -1,4 +1,4 @@
-## Olá eu sou a Ellen Santos👋
+## Olá!! eu sou a Ellen Santos👋
 
 - 🌱 Atualmente  cursando  FullStack 
 - 🌱 Atualmente  cursando  Profissão Analista de Dados
