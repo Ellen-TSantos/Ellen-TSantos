@@ -1,4 +1,4 @@
-## Olá!! eu sou a Ellen Santos👋
+## Olá!! Eu sou a Ellen Santos👋
 
 - 🌱 Atualmente  cursando  Full-Stack - Fullture
 - 🌱 Atualmente  cursando  Profissão Analista de Dados - Ebac
@@ -7,11 +7,10 @@
 
 
 
-<div align="center">
+<div  ="row">
      <a href="https://github.com/Ellen-TSantos"> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/
-?username=Ellen-TSantos&layout-compact&langs_count-16&theme=dracula"/>  
+   <img height="80px" src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&theme=radical"/>  
           </div>
   
   ##
