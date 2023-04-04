@@ -10,7 +10,7 @@
 <div align="rigth">
      <a href="https://github.com/Ellen-TSantos"> 
    <img width="300px" src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-   <img width="445px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&theme=radical"/>  </div>
+   <img width="445px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&theme=radical"/></div>
     
    
   <h3>Tecnologias que utilizo para desenvolver:</h3>
