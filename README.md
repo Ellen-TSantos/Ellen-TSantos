@@ -7,10 +7,10 @@
 
 
 
-<div  ="row">
+<div align="rigth">
      <a href="https://github.com/Ellen-TSantos"> 
-   <img height="80px" src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&theme=radical"/>  
+   <img width="270px" src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout-compact&langs_count-16&theme=radical"/>  
           </div>
   
   ##
