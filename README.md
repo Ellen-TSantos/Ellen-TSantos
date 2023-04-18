@@ -11,19 +11,11 @@
  <img alt="Ellen Github Stats" width="335px"
   src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"></a>
   
-  
-  <a href="https://github.com/Ellen-TSantos">
- <img alt="Ellen Top Languages" width="445px" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=javascript" ></a>
+   <a href="https://github.com/Caio-Vieira">
+ <img alt="Caio Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Vieira&layout=compact&theme=radical&t&hide_border=true&bg_color=0D1117"/></a>
+ 
   </div>  
-  
  <br>
- 
- 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitosandrin&show_icons=true&locale=en&layout=compact" alt="vitosandrin" /></p>
-  
-  
- 
    
   <h3>Tecnologias que utilizo para desenvolver:</h3>
          
