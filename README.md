@@ -10,11 +10,9 @@
   <a href="https://github.com/Ellen-TSantos">
  <img alt="Ellen Github Stats" width="335px"
   src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"></a>
-  <br>
-  
-  <a href="https://github.com/AlianeAmarals">
+  <a href="https://github.com/Ellen-TSantos">
  <img alt="Ellen Top Languages" width="445px" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlianeAmaral&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=javascript" ></a>
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&hide=javascript" ></a>
   </div>  
   
   
