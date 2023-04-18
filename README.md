@@ -6,7 +6,7 @@
 - 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional
 
 
-  <div>
+  <div display="flex">
   <a href="https://github.com/Ellen-TSantos">
  <img alt="Ellen Github Stats" width="335px"
   src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"></a>
