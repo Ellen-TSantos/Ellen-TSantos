@@ -8,7 +8,7 @@
 
   <div display="flex">
   <a href="https://github.com/Ellen-TSantos">
- <img alt="Ellen Github Stats" width="455px"
+ <img alt="Ellen Github Stats" width="400px"
   src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"></a>
    <a href="https://github.com/Ellen-TSantos">
  <img alt="Ellen Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout=compact&theme=radical&t&hide_border=true&bg_color=0D1117"></a>
