@@ -8,7 +8,7 @@
 
   <div display="flex">
   <a href="https://github.com/Ellen-TSantos">
- <img alt="Ellen Github Stats" width="335px"
+ <img alt="Ellen Github Stats" width="455px"
   src="https://github-readme-stats.vercel.app/api?username=Ellen-TSantos&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117"></a>
    <a href="https://github.com/Ellen-TSantos">
  <img alt="Ellen Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ellen-TSantos&layout=compact&theme=radical&t&hide_border=true&bg_color=0D1117"></a>
@@ -32,7 +32,7 @@
   ##
  <div> 
   <a href = "mailto:ellentatyysousasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="linkedin.com/in/ellen-santos-3b7822273" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/ellen-santos-3b7822273" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
