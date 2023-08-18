@@ -3,6 +3,7 @@
 - :mortar_board: Concluido Full-Stack - Fullture School
 - 🌱 Atualmente  cursando  Profissão Analista de Dados - Ebac
 - 🌱 Atualmente  cursando JavaScript e TypeScript - Udemy
+- 🌱 Atualmente  cursando Desenvolvimento Web Full-Stack - DESCODIFICADAS
 - 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional
 
 
