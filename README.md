@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ellen Santos👋
+## Olá! Eu sou a Ellen Santos👏🏾
 
 - :mortar_board: Concluido Full-Stack - Fullture School
 - 🌱 Atualmente  cursando  Profissão Analista de Dados - Ebac
@@ -34,7 +34,7 @@
  <div> 
   <a href = "mailto:ellentatyysousasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-56050e?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/ellentsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-370c6d?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.twitch.tv/" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
 </div>
  
