@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Ellen Santos 👋🏾
 
-- 📚 Atualmente Cursando Graduação Desenvolvimento Web - Anhanguera Educacional
+- 📚 Atualmente Cursando Graduação Desenvolvimento Web Full Stack - Anhanguera Educacional
 - 🌱 Atualmente  cursando Desenvolvimento Web Full-Stack - DESCODIFICADAS
 - 🌱 Atualmente  cursando  Ingês -Bolsa Mover #Hello - EF English Live
 - 🌱 Atualmente  cursando JavaScript e TypeScript - Udemy
