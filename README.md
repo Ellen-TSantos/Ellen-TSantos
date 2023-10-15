@@ -3,8 +3,8 @@
 - 📚 Atualmente Cursando Graduação Desenvolvimento Web Full Stack - Anhanguera Educacional
 - 🌱 Atualmente  cursando Desenvolvimento Web Full-Stack - DESCODIFICADAS
 - 🌱 Atualmente  cursando  Ingês -Bolsa Mover #Hello - EF English Live
-- 🌱 Atualmente  cursando JavaScript e TypeScript - Udemy
 - 🌱 Atualmente  cursando  Profissão Analista de Dados - Ebac
+- :mortar_board: Concluido JavaScript e TypeScript - Udemy
 - :mortar_board: Concluido Full-Stack - Fullture School
 
 
