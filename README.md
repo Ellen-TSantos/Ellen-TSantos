@@ -5,7 +5,7 @@
 - 🌱 Atualmente  cursando  Ingês -Bolsa Mover #Hello - EF English Live
 - 🌱 Atualmente  cursando  Analista de Dados - Ebac
 - :mortar_board: Concluido JavaScript e TypeScript - Udemy
-- :mortar_board: Concluido Full-Stack - Fullture School
+- :mortar_board: Concluido Desenvolvedor(a) Full Stack - Fullture School
 
 
 
